@@ -1,0 +1,193 @@
+.bg {
+    background-color: #f3d9e5;
+}
+
+.link-selected {
+    border-bottom: 3px solid #1f953c;
+    border-radius: 6px;
+}
+
+.ms-form {
+    margin-left: 30rem;
+}
+
+.section-1,
+.historia-acai {
+    padding: 6rem;
+}
+
+.alinhamento {
+    text-align: justify;
+}
+
+.card-body {
+    background-color: #eacad5;
+}
+
+.botao-card {
+    color: #975bcf;
+}
+
+.nav-link {
+    font-size: 1.3rem;
+    color: #1f953c;
+    font-weight: 500;
+}
+
+.section-2 {
+    height: auto;
+}
+
+section.gap {
+    gap: 3rem;
+}
+
+.card,
+.card:hover {
+    border: none;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+p.font {
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: 8em;
+}
+
+p.m-start {
+    margin-left: 35rem;
+}
+
+.depoimento {
+}
+
+#section1 {
+    background: url(https://media.istockphoto.com/id/1183670193/pt/foto/heart-shape-of-ice-cube.jpg?s=612x612&w=0&k=20&c=sjs7MBwG1k75QuNSD36lEQBaB4VPZv7ADJSevTsBcqk=);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 50vh;
+    margin: 0 auto;
+    position: relative;
+    opacity: 0.7;
+}
+
+div i {
+    color: #5f1d3d;
+    font-size: 3rem;
+    margin: .5rem;
+}
+
+.m-top {
+    margin-top: 4rem;
+}
+
+.direito-reservado {
+    font-size: .8rem;
+}
+
+.bg-footer {
+    background-color: #f3d9e5;
+}
+
+/*estilo pag acai e cupuaçu*/
+
+#section3 {
+    background: url(https://img.freepik.com/fotos-gratis/closeup-tiro-vertical-de-mirtilos-com-gotas-de-agua-e-folhas_181624-1166.jpg?w=740&t=st=1695487318~exp=1695487918~hmac=5f4f6fc8d42970505efe19e4fb770bee400cb7f872839cfd0de0c5ca582bab1c);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 50vh;
+    margin: 0 auto;
+    position: relative;
+    justify-content: center;
+    overflow: hidden;
+    opacity: 0.5;
+}
+
+.section-escolha {
+    flex-direction: row;
+    align-items: center;
+    background-color: #eacad5;
+}
+
+.borda {
+    border-left: 10px solid #5f1d3d;
+    border-right: 10px solid #5f1d3d;
+    border-radius: 20px;
+}
+
+input[type=submit] {
+    width: 70%;
+    color: white;
+    background-color: #157347;
+    width: 100%;
+    padding: .8em;
+    margin-bottom: 1rem;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 1em;
+}
+
+input[type=submit]:hover {
+    opacity: .9;
+}
+
+label:hover {
+    color: #5f1d3d;
+    font-weight: bold;
+
+}
+
+.img-floral-acai {
+    margin-right: ;
+    overflow: hidden;
+}
+
+
+/*estilo pag dev*/
+
+.bg-color-main {
+    background-color: #f3d9e5;
+}
+
+.section-dev {
+    background-color: #f3d9e5;
+    width: 50rem;
+    margin-left: 18rem;
+    padding: 2rem;
+    flex-direction: column;
+}
+
+.img-dev {
+    border-radius: 50%;
+    height: 10rem;
+    overflow: hidden;
+    background-color: #000;
+}
+
+#section2 {
+    background: url(https://media.istockphoto.com/id/1183670193/pt/foto/heart-shape-of-ice-cube.jpg?s=612x612&w=0&k=20&c=sjs7MBwG1k75QuNSD36lEQBaB4VPZv7ADJSevTsBcqk=);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 45vh;
+    margin: 0 auto;
+    position: relative;
+    justify-content: center;
+}
+
+.icon-dev {
+    font-size: 1.5rem;
+}
+
+.cor-acai {
+    color: #5f1d3d;
+}

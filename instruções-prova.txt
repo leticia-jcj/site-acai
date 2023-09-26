@@ -1,0 +1,45 @@
+Uma loja de açaí deseja criar um site para pode chamar seus clientes através da internet. Crie um site onde tenha um catálogo de produtos dessa loja de açaí. Pode utilizar o bootsrap, mas nao para fazer todo o site.
+
+O site deve conter uma index.html com 3 links:
+
+- Link para o catalogo de preços do açaí (200 ml, 300ml, 500ml, 1L e 10 ingredientes);
+- Link para o catalogo de preços de cupuaçu (200ml, 300ml, 500ml, 1L e 10 ingredientes);
+- Link para a pagina mostrando quem fez o sistema - Coloque sua informações pessoais nessa pagina (nome, linkedin, email, github e etc.).
+
+
+Pagina Inicial deve conter:
+
+- 1 cabeçalho com navbar;
+- 4 seções de conteudo sobre açai;
+- 1 footer.
+
+No total terão 4 paginas:
+
+- a pagina inicial;
+- a pagina de vendas do açai;
+- a de vendas do cupuaçu;
+- e tala sobre o dev.
+
+Estilização:
+
+- Foque na cor roxa para que tenha uma boa identidade visual.
+
+Hospegagem do Site:
+
+- Github Pages.
+
+Envio:
+
+- Poste o codigo fonte + link da hospedagem no classroom.
+
+
+Apresentação:
+
+- O projeto será apresentado pelo aluno NA PROXIMA SEXTA FEIRA(29/09).
+
+Criterios de avaliaçao:
+
+- 3 pontos - UI (User Interface);
+- 3 pontos de UX (User experience);
+- 2 pontos de estrutura de codig/site;
+- 2 pontos para hospedar no github pages.
